@@ -2,7 +2,7 @@
 
 Projeto realizado por:
 
-Melissa Meira Perdomo - RMsubstituir
+Melissa Meira Perdomo - RM366179
 Gabriel da Silva Barros - RM366408
 Larissa Akemi Iwamoto - RM365798
 Marcelo Goes - RM366076
